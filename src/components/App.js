@@ -13,10 +13,10 @@ class App extends Component {
   render() {
     return (
       <div className="App">
-        <Header title="I am property validate whit isRequired"  items={books} />
+        <Header   title="I am property validate whit isRequired"  items={books} />
         <Body titleNotice="EL Bello Tormento" descriptionNotice=
         "Aqui se narra la historia de un joven eprendedor con ganas de sacarle el ultimo jugio a su \n sera que esto algun dia va a terminar"/>
-        <Footer copy="copyright jejeje"/> 
+        <Footer/> 
       </div>
     );
   }

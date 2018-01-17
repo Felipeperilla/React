@@ -15,9 +15,15 @@
   }
 
   .menu_descente{
-    background: brown;
+    margin: 10% auto;
+    padding: 15px;
+    background:yellow;
   }
 
   .properties{
-    color:yellow;
+    color:black;
+    text-align: left;
+    margin: 5px auto;
+
   }
+

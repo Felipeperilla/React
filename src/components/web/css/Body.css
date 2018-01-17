@@ -1,16 +1,29 @@
 .Body-intro {
-    background: white;
+    background:rgba(255, 255, 0, 0.699);
+    border-radius:13px;
+    width: 50%;    
+    margin: 20% auto;
 }
 
-.Body-title{
+.button{
+    margin-top: 5%;
+    background-color:black;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 11px;
 }
-.Body-description{
-    color: black;
-}
 
-
-body{
-    background: #ccc;
-}
-
-
+.reloj{
+    width: 100px;
+    height: 100px;
+    -moz-border-radius: 50%;
+    -webkit-border-radius: 50%;
+    border-radius: 50%;
+    background: #5cb85c;
+    margin: 15% auto;
+    margin-bottom: 20%;
+  }
